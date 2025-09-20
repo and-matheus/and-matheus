@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=and-matheus&label=Profile%20views&color=0e75b6&style=flat" alt="and-matheus" /> </p>
 
-- Todos os meus projetos estão disponíveis em: [https://github.com/and-matheus?tab=repositories](https://github.com/and-matheus?tab=repositories)
+- Todos os meus projetos estão disponíveis em: [https://github.com/amatheus-dev?tab=repositories](https://github.com/amatheus-dev?tab=repositories)
 
 - contato: **a.matheus.dev@gmail.com**
 <h3 align="left">Languages and Tools:</h3>
@@ -20,7 +20,7 @@
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" margin="10"/> </a> 
 </p>
 <p align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=and-matheus&show_icons=true&locale=en&layout=compact" alt="and-matheus" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amatheus-dev&show_icons=true&locale=en&layout=compact" alt="amatheus-dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=and-matheus&show_icons=true&locale=en" alt="and-matheus" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amatheus-dev&show_icons=true&locale=en" alt="amatheus-dev" /></p>
 </p>
